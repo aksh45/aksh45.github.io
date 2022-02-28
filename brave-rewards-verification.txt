@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aksh45.github.io
+Token: 512e051e923cafdd94a59e32c2f207bf23fdad3cbeff0515c6b9f802e34fddd6
