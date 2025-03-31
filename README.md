@@ -53,6 +53,7 @@ My name is Akshit Ahuja , I am a 4th year undergrad student from Guru Nanak Dev 
 4. [tech_blog](https://auth.geeksforgeeks.org/user/UnworthyProgrammer/articles)
 5. [Instagram](https://instagram.com/aksh45.in)
 6. [hackerrank](https://www.hackerrank.com/ahujaakshit20)
+7. [Quasarz](https://quasarz.io/akshit)
 
 
 ## Note 
